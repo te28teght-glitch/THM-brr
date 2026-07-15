@@ -41,24 +41,22 @@
 На этом моменте можно вспомнить, что такое метасплоит и пойти проверить скаду через него:\
 Запускаем msf:
 
-\```\
-msfconsole\```\
+msfconsole
+
 После чего выбираем модуль для чтения регистров:
 
-\```
 
 use auxiliary/scanner/scada/modbusclient
 
-\```\
+
 ![](Aspose.Words.4b87d6ca-373c-428a-86d8-125c450587c9.009.png)\
 Далее настраиваем мету:
 
-\```\
 set NUMBER 20\
 set DATA\_ADDRESS 0\
 set RPORT 5020set RHOSTS 10.48.166.252
 
-\```\
+
 ![](Aspose.Words.4b87d6ca-373c-428a-86d8-125c450587c9.010.png)\
 Ну и запускаем командой run:\
 ![](Aspose.Words.4b87d6ca-373c-428a-86d8-125c450587c9.011.png)\
