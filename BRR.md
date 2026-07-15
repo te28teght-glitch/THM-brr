@@ -54,7 +54,8 @@ use auxiliary/scanner/scada/modbusclient
 
 set NUMBER 20\
 set DATA\_ADDRESS 0\
-set RPORT 5020set RHOSTS 10.48.166.252
+set RPORT 5020
+set RHOSTS 10.48.166.252
 
 
 ![](Aspose.Words.4b87d6ca-373c-428a-86d8-125c450587c9.010.png)\
