@@ -41,12 +41,12 @@
 На этом моменте можно вспомнить, что такое метасплоит и пойти проверить скаду через него:\
 Запускаем msf:
 
-msfconsole
+```msfconsole```
 
 После чего выбираем модуль для чтения регистров:
 
 
-use auxiliary/scanner/scada/modbusclient
+```use auxiliary/scanner/scada/modbusclient```
 
 
 ![](Photo/Aspose.Words.4b87d6ca-373c-428a-86d8-125c450587c9.009.png)\
