@@ -53,8 +53,8 @@
 ![](Photo/Aspose.Words.4b87d6ca-373c-428a-86d8-125c450587c9.009.png)\
 Далее настраиваем мету:
 ```
-set NUMBER 20\
-set DATA\_ADDRESS 0\
+set NUMBER 20
+set DATA\_ADDRESS 0
 set RPORT 5020
 set RHOSTS 10.48.166.252
 ```
